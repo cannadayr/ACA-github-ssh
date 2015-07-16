@@ -1,4 +1,3 @@
-# todo-list
 ####Lets generate some key pairs + SSH configs! (because laziness):
 
 1. Generate a key pair locally with `ssh-keygen`. Enter in info as you see fit (I named the key 'cannadayr.github' (windows users can use the "Putty" application to generate a keypair, more info can be found via www.chiark.greenend.org.uk/~sgtatham/putty/)
